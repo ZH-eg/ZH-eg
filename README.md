@@ -20,5 +20,5 @@ Hi there 👋
 - Real-time-object-detection
 
 # How to reach me
-- [GitHub]([(https://github.com/ZH-eg])
-- [CSDN]([(https://blog.csdn.net/2501_94303627?spm=1000.2115.3001.5343)])
+- [GitHub](https://github.com/ZH-eg)
+- [CSDN](https://blog.csdn.net/2501_94303627?spm=1000.2115.3001.5343)
