@@ -1,4 +1,4 @@
-<img width="2549" height="1473" alt="image" src="https://github.com/user-attachments/assets/146336bd-b7ae-4af4-8451-d8f98e32abe1" />## Hi there 👋
+Hi there 👋
 # About me
 - I’m a university student in China
 - I’m currently learning robot and computer vision and embedded software
